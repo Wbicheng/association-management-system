@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: bisque;
+}
+.logo{
+    width: 1000px;
+    height: 120px;
+    background: #FFFFFF;
+    margin-top: 140px;
+    margin-left: 280px;
+}
+.name{
+    margin: 100px 265px;
+}
+.register{
+    width: 280px;
+    height: 140px;
+    background: #FFFFFF;
+    margin: 25px auto;
+    border: double rgba(0,0,0,0.59);
+}
+.tnm{
+    width: 65px;
+    height: auto;
+    margin: 0px auto;
+}
+.reg-table{
+    width: 210px;
+    height: auto;
+    margin: 10px auto;
+}
+#regis{
+    position: relative;
+    top: 8px;
+    left: 90px;
+
+}

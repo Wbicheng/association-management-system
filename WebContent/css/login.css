@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: bisque;
+}
+.logo{
+    width: 1000px;
+    height: 120px;
+    background: #FFFFFF;
+    margin-top: 140px;
+    margin-left: 280px;
+}
+.name{
+    margin: 100px 265px;
+}
+.logincontainer{
+    width: 280px;
+    height: 140px;
+    background: #FFFFFF;
+    margin: 25px auto;
+    border: double rgba(0,0,0,0.59);
+}
+.denglv{
+    width: 65px;
+    height: auto;
+    margin: 0px auto;
+}
+.account{
+    width: 210px;
+    height: auto;
+    margin: 10px auto;
+}
+#pasw{
+    width: 30px;
+    height: auto;
+    margin: 10px 60px;
+}
+#regis{
+    position: relative;
+    left: 150px;
+    bottom: 43px;
+}
