@@ -38,7 +38,7 @@
         out.print("<script language='javaScript'> alert('账号错误');</script>");
         response.setHeader("refresh", "0;url=login.jsp");
     }
- 
+ 	db.close();
     
 %>
 </body>
